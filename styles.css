@@ -1,0 +1,50 @@
+/* General Body Styling */
+body {
+      font-family: 'Indie Flower', cursive;
+      text-align: center; /* Center-align all text */
+      background-color:  #f0f8ff; /* Light blue background */
+  }
+  
+  /* Heading Style */
+  h1 {
+      font-family: 'Lobster', cursive; /* Fancy font for the title */
+      color: #ff4500; /* Bright orange */
+      margin: 20px 0;
+      font-size: 3rem; /* Larger size for emphasis */
+      text-shadow: 2px 2px 4px #999; /* Soft shadow for a 3D effect */
+  }
+  
+  /* Dice Container */
+  .container {
+      margin-top: 50px;
+  }
+  
+  /* Individual Dice Styling */
+  .dice {
+      display: inline-block; /* Align both dice side by side */
+      margin: 20px;
+      padding: 10px;
+      background: #ffffff; /* White background */
+      border-radius: 10px; /* Rounded corners */
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  /* Dice Text Styling */
+  .dice p {
+      font-size: 1.2rem; /* Slightly larger font for Player 1/2 text */
+      color: #333; /* Dark gray */
+  }
+  
+  /* Dice Images */
+  .dice img {
+      width: 100px; /* Set size of the dice */
+      height: 100px;
+  }
+  
+  /* Footer Styling */
+  footer {
+      margin-top: 30px;
+      color: #555; /* Medium gray */
+      font-family: 'Indie Flower', cursive;
+  }
+  
